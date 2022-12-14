@@ -1,0 +1,4 @@
+﻿[08:19:15.575051] fail: Request failures: Properties/SetValue.
+                        Microsoft.DotNet.DesignTools.Client.DesignToolsServerException: Identifier 'Koleksi Buku' is not valid. (Parameter 'value')
+
+                        For information on how to troubleshoot the designer refer to the guide at https://aka.ms/winforms/designer/troubleshooting.
